@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SLAYE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SLAYE\\.nuget\\packages"
+    ]
+  }
+}
