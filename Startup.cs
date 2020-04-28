@@ -32,7 +32,7 @@ namespace repo.pazgh
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello Azure!");
+                    await context.Response.WriteAsync("Allo les boys !");
                 });
             });
         }
